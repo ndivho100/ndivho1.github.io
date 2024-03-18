@@ -1,0 +1,30 @@
+.img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+  }
+
+  .img1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+  h1 { margin-left: 200px; }
+
+  h2 { margin-left: 300px; }
+
+  h3 { margin-left: 300px; }
+
+  
+  hr{margin-left: 300px}
+  ul{margin-left: 280px;}
+
+  p { 
+    margin-left: 300px;; 
+  } 
+  p { 
+    margin-right: 300px;; 
+  } 
